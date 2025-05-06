@@ -10,8 +10,6 @@ All Countries, States & Cities are Covered & Populated with Different Combinatio
 
 [API Documentation](https://countrystatecity.in/)
 
-[![banner](.github/api.png)](https://countrystatecity.in/)
-
 ## Available Formats
 - CSV
 - JSON
